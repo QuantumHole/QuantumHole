@@ -1,14 +1,18 @@
 👋 Hi, I’m @QuantumHole
 
-👀 Some languages I like to code in
+💜 Some languages I like to code in
 - C/C++
 - PHP
 - Python
 
-If required I also sometimes use
-- Java
+👍 If necessary I also have fun in coding
 - Assembler
-- VisualBasic
+- Java
+- JavaScript
+
+👎 Some languages I have used in the past, but would avoid if possible
+- Basic/QBasic/QuickBasic/VisualBasic/VBA
+- (Turbo) Pascal
 
 <!---
 QuantumHole/QuantumHole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
